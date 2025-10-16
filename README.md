@@ -5,4 +5,3 @@
   </br>
   <img src="https://amaryllis-sigma.vercel.app?user=PrithviKaushik&theme=watchdog&hide_border=true" alt="Github Streak">
 </div>
-```
