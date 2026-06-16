@@ -43,6 +43,16 @@
 
 ## Featured Projects
 
+### GIGLY
+
+Production-grade task management platform built with Flutter, Riverpod, and Firebase.
+
+* Real-time task synchronization
+* Feature-first Clean Architecture
+* Email/Password and Google authentication
+* Search, filtering, undo-delete, and dark mode
+* 52 automated tests and zero lint warnings
+
 ### VIRALYZE
 Instagram analytics application built with Flutter and Firebase.
 
