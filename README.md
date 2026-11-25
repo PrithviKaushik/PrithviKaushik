@@ -17,7 +17,7 @@ I build and deploy machine learning systems, with a focus on probabilistic model
 
 - **AI/ML:** Time-series forecasting, Gaussian Processes, applied computer vision, and end-to-end model deployment
 - **Engineering:** Reproducible Python pipelines, FastAPI services, Dockerized deployments, and clean system architecture
-- **Community:** Organizer (Lead) at GDG On Campus USAR, Delhi running technical workshops and industry outreach
+- **Community:** Organizer (Lead) at Google Developer Groups On Campus USAR, Delhi running technical workshops and industry outreach
 - **Environment:** Fedora Sway Spin, Neovim, and terminal-first Linux tooling
 
 ---
@@ -67,7 +67,7 @@ Time-series forecasting framework using Gaussian Processes in GPyTorch.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<sub>Also worked with: cross-platform development (Flutter, Dart, Firebase)</sub>
+<sub>Also worked with: cross-platform development (Flutter, Dart, Firebase, SQL, FastAPI)</sub>
 
 ---
 
