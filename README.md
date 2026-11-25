@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prithvi-kaushik/">LinkedIn</a> •
-  <a href="mailto:prithvi.k314@gmail.com">Email</a> 
+  <a href="https://www.linkedin.com/in/prithvi-kaushik/">linkedIn</a> •
+  <a href="mailto:prithvi.k314@gmail.com">email</a> 
 </p>
 
 ---
@@ -63,7 +63,7 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 ## Current Focus
 
 - **Probabilistic forecasting:** Evaluating kernel compositions (RBF, Periodic, Gibbs) and uncertainty calibration on solar/weather time-series in `daybreak-gp`
-- **Production ML systems:** Moving models past notebooks—reproducible evaluation, FastAPI inference services, and containerized deployment
+- **Production ML systems:** Moving models past notebooks, towards reproducible evaluation, FastAPI inference services, and containerized deployment
 - **Applied LLM systems:** Building reliable, evaluation-driven LLM pipelines and structured tool-use workflows
 - **Open source:** Contributing to Python infrastructure and ML tooling repositories
 
@@ -86,12 +86,12 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 
 ## Off the Clock
 
-- **Drums:** Playing drums for the [Instagram](https://www.instagram.com/reallyprithvi)
+- **Drums:** Playing some bangers to cool off [check it out]([https://www.instagram.com/reallyprithvi](https://www.instagram.com/reallyprithvi/reel/DQKmyBsEz8c/))
 - **Boxing:** Training fundamentals, bag work, and conditioning
 - **Linux:** Occasionally breaking my Sway config at 2 AM and pretending it was planned
 
 ---
 
 <p align="center">
-  <sub><i>"The goal isn't to prove a fancier model wins—it's to know when it's actually worth the complexity."</i></sub>
+  <sub><i>"The goal isn't to prove a fancier model wins, it's to know when it's actually worth the complexity."</i></sub>
 </p>
