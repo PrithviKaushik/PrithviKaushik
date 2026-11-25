@@ -7,7 +7,7 @@
   <a href="mailto:prithvi.k314@gmail.com">email</a> 
 </p>
 
----
+
 
 ## Featured Work
 
