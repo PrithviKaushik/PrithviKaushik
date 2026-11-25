@@ -1,24 +1,12 @@
-<h1 align="center">Prithvi Kaushik</h1>
-
 <p align="center">
-  AI & ML Engineering • B.Tech AI & Data Science • Lead, GDG On Campus USAR
+  <img src="./banner.gif" alt="Prithvi Kaushik" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prithvi-kaushik/">LinkedIn</a> •
-  <a href="mailto:prithvi.k314@gmail.com">Email</a>
+  <a href="mailto:prithvi.k314@gmail.com">Email</a> •
+  <a href="https://www.instagram.com/reallyprithvi">Drums</a>
 </p>
-
----
-
-## About
-
-I build and deploy machine learning systems, with a focus on probabilistic modeling, computer vision, and production inference backends.
-
-- **AI/ML:** Time-series forecasting, Gaussian Processes, applied computer vision, and end-to-end model deployment
-- **Engineering:** Reproducible Python pipelines, FastAPI services, Dockerized deployments, and clean system architecture
-- **Community:** Organizer (Lead) at Google Developer Groups On Campus USAR, Delhi running technical workshops and industry outreach
-- **Environment:** Fedora Sway Spin, Neovim, and terminal-first Linux tooling
 
 ---
 
@@ -60,6 +48,7 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 **Systems & Tooling**
 <br>
@@ -68,7 +57,7 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<sub>Also worked with: cross-platform development (Flutter, Dart, Firebase, SQL, FastAPI)</sub>
+<sub>Previously shipped cross-platform apps (Flutter, Dart, Firebase)—retired from mobile, kept the habit of writing tests.</sub>
 
 ---
 
@@ -92,4 +81,18 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithviKaushik&layout=compact&theme=tokyonight&hide_border=true&hide=dart,html,css"
   />
+</p>
+
+---
+
+## Off the Clock
+
+- **Drums:** Playing kit and posting covers on [Instagram](https://www.instagram.com/reallyprithvi)
+- **Boxing:** Training fundamentals, bag work, and conditioning
+- **Linux:** Occasionally breaking my Sway config at 2 AM and pretending it was planned
+
+---
+
+<p align="center">
+  <sub><i>"The goal isn't to prove a fancier model wins—it's to know when it's actually worth the complexity."</i></sub>
 </p>
