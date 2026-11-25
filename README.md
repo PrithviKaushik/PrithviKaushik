@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prithvi-kaushik/">LinkedIn</a> •
-  <a href="mailto:prithvi.k314@gmail.com">Email</a> •
+  <a href="mailto:prithvi.k314@gmail.com">Email</a> 
 </p>
 
 ---
