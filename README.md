@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="Prithvi Kaushik" width="100%" />
+  <img src="./github_banner.gif" alt="Prithvi Kaushik" width="100%" />
 </p>
 
 <p align="center">
