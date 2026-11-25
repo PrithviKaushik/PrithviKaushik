@@ -69,7 +69,7 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
   <img
