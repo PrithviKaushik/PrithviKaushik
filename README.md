@@ -35,11 +35,12 @@ Human-in-the-loop computer vision system that turns motorsport footage into stru
 - Fine-tuned YOLO11n on camera-specific race footage (0.035 → 0.995 mAP@50 on a 10-image held-out split from the target camera view) with ~12.1 FPS end-to-end tracking on CPU-only hardware
 - Served evidence timelines and review workflows via **FastAPI** and **Next.js**
 
-### [daybreak-gp](https://github.com/PrithviKaushik/daybreak-gp)
-Time-series forecasting framework using Gaussian Processes in GPyTorch.
+### [daybreak-gp](https://github.com/PrithviKaushik/daybreak-gp) *(Work in Progress)*
+Controlled empirical study comparing stationary vs. non-stationary Gaussian Processes for hourly solar PV forecasting on the **SOLETE** dataset (10,968 hourly observations).
 
-- Implemented and compared RBF, Periodic, and Gibbs kernel compositions on the SOLETE dataset
-- Exposed forecasting and uncertainty estimates through a FastAPI inference service
+- Implementing a 1D non-stationary **Gibbs** kernel (Paciorek & Schervish, 2003) in **GPyTorch** with a neural-network-parameterized length scale $\ell(t)$ optimized via marginal likelihood
+- Comparing **RBF** vs. **Gibbs** (and 24-hour **Periodic** compositions) across 24h/48h interpolation and future extrapolation, evaluating both point error (**RMSE**, **MAE**) and uncertainty calibration (**NLPD**, 95% interval coverage)
+- Building a reproducible, config-driven pipeline with unit tests, artifact tracking, and a planned **FastAPI** inference service
 
 ---
 
