@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prithvi-kaushik/">LinkedIn</a> •
   <a href="mailto:prithvi.k314@gmail.com">Email</a> •
-  <a href="https://www.instagram.com/reallyprithvi">Drums</a>
 </p>
 
 ---
@@ -87,7 +86,7 @@ Controlled empirical study comparing stationary vs. non-stationary Gaussian Proc
 
 ## Off the Clock
 
-- **Drums:** Playing kit and posting covers on [Instagram](https://www.instagram.com/reallyprithvi)
+- **Drums:** Playing drums for the [Instagram](https://www.instagram.com/reallyprithvi)
 - **Boxing:** Training fundamentals, bag work, and conditioning
 - **Linux:** Occasionally breaking my Sway config at 2 AM and pretending it was planned
 
